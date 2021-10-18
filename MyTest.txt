@@ -1,0 +1,6 @@
+I am VaishnaviI am software trainee in trianz,
+and this is on a new line
+
+The following is a subset of characters:
+	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvw
